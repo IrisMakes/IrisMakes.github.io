@@ -7,3 +7,9 @@ title: /home
 ---
 
 # Iris Kaucher
+Embedded Engineer with a love for problem solving, a drive to learn new skills, and experience leading complex projects.
+
+Contact me!
+[Email](mailto:iriskaucher@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/iriskaucher/)
+[Github](https://github.com/IrisMakes)
