@@ -1,6 +1,7 @@
 ---
 layout: page
-title: /projects
+title: IrisMakes/projects
+menu_title: /projects
 permalink: /projects/
 ---
 # Projects

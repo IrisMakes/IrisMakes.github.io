@@ -1,6 +1,7 @@
 ---
 layout: page
-title: /resume
+title: IrisMakes/resume
+menu_title: /resume
 permalink: /resume/
 ---
 

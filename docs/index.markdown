@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: /home
+title: IrisMakes
+menu_title: /home
 ---
 
 # Iris Kaucher
