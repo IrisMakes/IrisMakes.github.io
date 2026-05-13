@@ -5,7 +5,6 @@ permalink: /resume/
 ---
 
 <div class="split-container" markdown=1>
-<img src="/assets/IrisKaucher.png" alt="Iris Kaucher" class="image"/>
 <div class="text" markdown=1>
 # Iris Kaucher
 -----
