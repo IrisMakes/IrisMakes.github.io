@@ -46,6 +46,30 @@ Example with two stems mixed together in-fabric:
 <div class="text" markdown=1>
 
 # <u>Starship Theremin</u>
-A theremin instrument that is internally powered, has a built-in speaker for use anywhere, and changes lights in a constellation based on the theremin's volume. Programmed in C++ on an Arduino Uno with a modified theremin PCB.
+A theremin instrument that is internally powered, has a built-in speaker for use anywhere, and changes lights in a constellation based on the theremin's volume. Programmed in C++ on an Arduino Uno with a modified theremin PCB. The enclosure was created in Fusion 360 to house the battery, Arduino, and theremin PCB, and to expose the dials and antennas.
+</div>
+</div>
+
+<div class="split-container-right" markdown=1>
+<video controls>
+    <source src="/assets/ScoutingApp.mp4" type="video/mp4">
+    Your browser does not support video playback
+</video>
+<div class="text" markdown=1>
+
+# <u>First Robotics Scouting App</u>
+An app for First Robotics Competition teams to gather extensive data on opponents during a match and generate QR codes that can be shared with a central phone to coallesce data and analyze it in an environment absent of Wi-Fi. I programmed the app in Flutter for cross-platform use and it was used extensively by teams 1360 and 1218 to help bring both teams to Worlds.
+</div>
+</div>
+
+<div class="split-container" markdown=1>
+<video controls>
+    <source src="/assets/DayInThePark.mp4" type="video/mp4">
+    Your browser does not support video playback
+</video>
+<div class="text" markdown=1>
+
+# <u>A Day in the Park</u>
+A social game created for the Stay Safe! game jam. Created in Unity and programmed in C# over the course of two days, the game uses an AWS DynamoDB to store messages published by players and then display them on an island in space. The game won 7th place for mood, 12th place for creativity, and 21st place for innovation out of 250 submissions.
 </div>
 </div>
